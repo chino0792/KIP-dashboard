@@ -1,1 +1,1 @@
-# KIP-dashboard
+# KpI-dashboard
